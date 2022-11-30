@@ -3,7 +3,7 @@
 | :placard: Vitrine.Dev |  |
 | -------------  | --- |
 | :sparkles: Nome        | **CSharp_wfa_JSON_DT**
-| :label: Tecnologias | C# JSON DATATABLE
+| :label: Tecnologias | C# JSON DataTable
 
 ![image](https://user-images.githubusercontent.com/24603753/204850640-25d2c2ac-ea57-42b0-b6ea-10c1383370c5.png#vitrinedev)
 
